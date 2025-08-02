@@ -1,4 +1,5 @@
-<img src="profile.jpg" alt="Niroobhamaa Jayaprakash" width="150" style="border-radius: 50%;">
+<img src="niroobhamaa.jpg" alt="Niroobhamaa Jayaprakash" width="150" style="border-radius: 50%;">
+
 
 # 👩‍💻 NIROOBHAMAA JAYAPRAKASH  
 **AI & Data Science Enthusiast**
