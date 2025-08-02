@@ -1,14 +1,18 @@
-<img src="NIROO.jpg" alt="Niroobhamaa Jayaprakash" width="150" style="border-radius: 50%;">
-
-
-
-# 👩‍💻 NIROOBHAMAA JAYAPRAKASH  
-**AI & Data Science Enthusiast**
-
-📍 Puducherry, India  
-📧 niroobhamaa@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/niroobhamaa)  
-📞 9345990979  
+<table>
+  <tr>
+    <td>
+      <img src="niroobhamaa.jpg" alt="Niroobhamaa Jayaprakash" width="150" style="border-radius: 50%;">
+    </td>
+    <td style="vertical-align: middle; padding-left: 20px;">
+      <h1>👩‍💻 NIROOBHAMAA JAYAPRAKASH</h1>
+      <strong>AI & Data Science Enthusiast</strong><br>
+      📍 Puducherry, India<br>
+      📧 niroobhamaa@gmail.com<br>
+      🔗 <a href="https://www.linkedin.com/in/niroobhamaa">LinkedIn</a><br>
+      📞 9345990979
+    </td>
+  </tr>
+</table>
 
 
 📍 Puducherry, India  
