@@ -12,9 +12,6 @@
 
 I’m a passionate and curious learner pursuing B.Tech in Computer Science at Manakula Vinayakar Institute of Technology. My interests lie in Data Science, Artificial Intelligence, and Full-Stack Web Development. I'm always eager to apply my knowledge through real-world projects, coding challenges, and hackathons.
 
-✅ Completed all levels of **SkillRack Python – Level 1**  
-✅ Successfully completed **Kickstart (SkillRack)** challenges with certification  
-
 ---
 
 ## 🛠️ Skills
@@ -61,8 +58,9 @@ I’m a passionate and curious learner pursuing B.Tech in Computer Science at Ma
 - 📘 *Data Science Fundamentals* – IBM (Coursera)  
 - 🐍 *Python for Data Science* – IBM (Coursera)  
 - 🧮 *MySQL & SQL Practice* – SkillRack  
-- 🔥 *Kickstart Challenges* – SkillRack  
 - 🧠 *JS Programming* – Infosys Springboard  
+- ✅ *Python – Level 1 (All Levels Completed)* – SkillRack  
+- 🔥 *Kickstart Challenges* – SkillRack  
 
 ---
 
