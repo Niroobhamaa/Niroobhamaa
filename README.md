@@ -1,11 +1,10 @@
 ## NIROOBHAMAA JAYAPRAKASH
 
-**B.Tech CSE Student | AI & Data Science Enthusiast | Web Developer | Competitive Programmer**
+** AI & Data Science Enthusiast **
 
 📍 Puducherry, India  
 📧 niroobhamaa@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/niroobhamaa)
-
 📞 9345990979
 ---
 
