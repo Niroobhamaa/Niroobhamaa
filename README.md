@@ -1,6 +1,13 @@
-## NIROOBHAMAA JAYAPRAKASH
+<img src="profile.jpg" alt="Niroobhamaa Jayaprakash" width="150" style="border-radius: 50%;">
 
-** AI & Data Science Enthusiast **
+# 👩‍💻 NIROOBHAMAA JAYAPRAKASH  
+**AI & Data Science Enthusiast**
+
+📍 Puducherry, India  
+📧 niroobhamaa@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/niroobhamaa)  
+📞 9345990979  
+
 
 📍 Puducherry, India  
 📧 niroobhamaa@gmail.com  
