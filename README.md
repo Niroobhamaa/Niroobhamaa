@@ -1,20 +1,20 @@
-# 👩‍💻 Niroobhamaa Jayaprakash
+#NIROOBHAMAA JAYAPRAKASH
 
 **B.Tech CSE Student | AI & Data Science Enthusiast | Web Developer | Competitive Programmer**
 
 📍 Puducherry, India  
 📧 niroobhamaa@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/niroobhamaa)
-
+📞 9345990979
 ---
 
-## 🧠 About Me
+## ABOUT ME 
 
 I’m a passionate and curious learner pursuing B.Tech in Computer Science at Manakula Vinayakar Institute of Technology. My interests lie in Data Science, Artificial Intelligence, and Full-Stack Web Development. I'm always eager to apply my knowledge through real-world projects, coding challenges, and hackathons.
 
 ---
 
-## 🛠️ Skills
+## SKILLS
 
 **Languages**:  
 - Python (Intermediate)  
